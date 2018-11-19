@@ -223,7 +223,7 @@ stone by calling the `fireStone` function. As a hint: I would suggest
 adding a `numTicks` member variable to this class and then
 incrementing it upon each call to `move`.
 
-### Task 7: The `firStone` function
+### Task 7: The `fireStone` function
 
 The job of this function is to fire a stone in a random direction,
 with speed vector (x1 * self.SPEEDVECTOR, y1 * self.SPEEDVECTOR) where
