@@ -68,7 +68,7 @@ result, each of the player's `clockTick` method will be called.
 
 You are to implement the `clockTick` function in the `Player`
 class. Handle a clock tick event. This is the main method in the game
-that will cause player movement. Be sure to use self.move for
+that will cause player movement. Be sure to use `self.move` for
 movement, as some Player subclasses may override movement (e.g., to
 subtract fuel). This method takes two arguments:
     
