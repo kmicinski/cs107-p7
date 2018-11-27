@@ -1,6 +1,6 @@
 # CS 107 Project 7 -- Enemy AI and Parsing JSON in HaverQuest
 
-**Due: Thu, Dec 3, 6PM**
+**Due: Mon, Dec 3, 6PM**
 
 ![HaverQuest Gameplay](./gameplay.png)
 
